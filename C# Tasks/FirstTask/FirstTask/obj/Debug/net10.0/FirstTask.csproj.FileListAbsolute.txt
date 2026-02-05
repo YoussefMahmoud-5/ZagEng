@@ -1,0 +1,14 @@
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.exe
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.deps.json
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.runtimeconfig.json
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.dll
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\bin\Debug\net10.0\FirstTask.pdb
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.AssemblyInfoInputs.cache
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.AssemblyInfo.cs
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.csproj.CoreCompileInputs.cache
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.dll
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\obj\Debug\net10.0\refint\FirstTask.dll
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.pdb
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\obj\Debug\net10.0\FirstTask.genruntimeconfig.cache
+D:\ZagEng\C#\C# Tasks\FirstTask\FirstTask\obj\Debug\net10.0\ref\FirstTask.dll
