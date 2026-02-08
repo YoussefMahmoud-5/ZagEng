@@ -1,0 +1,14 @@
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\bin\Debug\net10.0\TaskC#01.exe
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\bin\Debug\net10.0\TaskC#01.deps.json
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\bin\Debug\net10.0\TaskC#01.runtimeconfig.json
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\bin\Debug\net10.0\TaskC#01.dll
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\bin\Debug\net10.0\TaskC#01.pdb
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\obj\Debug\net10.0\TaskC#01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\obj\Debug\net10.0\TaskC#01.AssemblyInfoInputs.cache
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\obj\Debug\net10.0\TaskC#01.AssemblyInfo.cs
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\obj\Debug\net10.0\TaskC#01.csproj.CoreCompileInputs.cache
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\obj\Debug\net10.0\TaskC#01.dll
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\obj\Debug\net10.0\refint\TaskC#01.dll
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\obj\Debug\net10.0\TaskC#01.pdb
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\obj\Debug\net10.0\TaskC#01.genruntimeconfig.cache
+D:\ZagEng\C#\C# 01\TaskC#01\TaskC#01\obj\Debug\net10.0\ref\TaskC#01.dll
